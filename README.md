@@ -1,5 +1,7 @@
 # Choco Delight - Power BI Report
 
+*Note*: You can view the interactive dashboard only if you have installed Power BI Desktop on your PC, else feel free to go through the static report in PDF.
+
 ## Project Overview
 
 **Choco Delight Report** is a business intelligence dashboard built in **Power BI**, focusing on sales, product, team, and customer performance for a chocolate manufacturing company. Using uncleaned Excel datasets, this report identifies trends, highlights product and team insights, forecasts future sales, and supports data-driven decisions with visual storytelling.
