@@ -40,7 +40,6 @@ This report is divided into two main analytical pages:
 
 -  Improved visibility into performance helped identify top products and teams, enabling targeted incentives and promotions.
 -  Forecasting insights support **better inventory planning**, reducing potential overstock by **15%**.
--  Highlighted missing team data led to improved data entry protocols and more reliable reporting.
 -  Customer analysis helps in launching loyalty initiatives aimed at retaining the **top 10%** customer segment.
 -  Overall, the dashboard enabled **data-driven decisions**, leading to a projected **12% improvement** in quarterly planning accuracy.
 
