@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Choco Delight** is a business intelligence dashboard built in **Power BI**, focusing on sales, product, team, and customer performance for a chocolate manufacturing company. Using uncleaned Excel datasets, this report identifies trends, highlights product and team insights, forecasts future sales, and supports data-driven decisions with visual storytelling.
+**Choco Delight Report** is a business intelligence dashboard built in **Power BI**, focusing on sales, product, team, and customer performance for a chocolate manufacturing company. Using uncleaned Excel datasets, this report identifies trends, highlights product and team insights, forecasts future sales, and supports data-driven decisions with visual storytelling.
 
 
 ## Project Description
@@ -21,6 +21,7 @@ This report is divided into two main analytical pages:
   - Highlights customers and their behavioral trends
 
 ### Data Preparation:
+
 - Trimmed and cleaned Excel datasets
 - Handled null values in the “Team” column by flagging and managing incomplete records using Power Query
 - Created relationships between tables
