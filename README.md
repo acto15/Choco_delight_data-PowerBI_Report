@@ -4,7 +4,6 @@
 
 **Choco Delight** is a business intelligence dashboard built in **Power BI**, focusing on sales, product, team, and customer performance for a chocolate manufacturing company. Using uncleaned Excel datasets, this report identifies trends, highlights product and team insights, forecasts future sales, and supports data-driven decisions with visual storytelling.
 
----
 
 ## Project Description
 
@@ -27,7 +26,7 @@ This report is divided into two main analytical pages:
 - Created relationships between tables
 - Built DAX measures for KPIs, growth rates, and time-intelligence functions
 - Adding the extra data(next year data) from excel and analyzing accordingly in Power BI 
----
+  
 
 ## Key Findings
 
@@ -36,7 +35,6 @@ This report is divided into two main analytical pages:
 -  **Customer Analysis**: The top 10% of customers generated **35% of revenue**, indicating a strong core customer base with potential for loyalty programs.
 -  **Forecasting**: Sales are projected to grow **by 10–12%** in the next 3 months, supporting positive business momentum.
 
----
 
 ##  Business Impact
 
@@ -46,7 +44,6 @@ This report is divided into two main analytical pages:
 -  Customer analysis helps in launching loyalty initiatives aimed at retaining the **top 10%** customer segment.
 -  Overall, the dashboard enabled **data-driven decisions**, leading to a projected **12% improvement** in quarterly planning accuracy.
 
----
 
 ## Skills Used
 
@@ -63,8 +60,13 @@ This report is divided into two main analytical pages:
   
 </div>
 
----
 
 ## Conclusion
 
 The **Choco Delight Power BI Report** turns raw data into actionable insights, helping the business optimize product strategy, improve team tracking, better understand customers, and forecast future performance with confidence. With a clean and interactive design, this project delivers real value through every visual.
+
+---
+## Author - Sam Arnon
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/samarnon-dataanalyst/)
+
+Thank you, and I look forward to connecting with you!
