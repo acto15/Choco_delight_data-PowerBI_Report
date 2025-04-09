@@ -19,7 +19,7 @@ This report is divided into two main analytical pages:
   - Monthly trend analysis of sales and orders
   - Sales forecasting using time-series models
   - Customer segmentation based on order patterns
-  - Highlights high-value customers and behavioral trends
+  - Highlights customers and their behavioral trends
 
 ### Data Preparation:
 - Trimmed and cleaned Excel datasets
@@ -58,9 +58,9 @@ This report is divided into two main analytical pages:
   <img src="https://img.shields.io/badge/DAX%20Measures-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-FFB347?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Trend%20Analysis-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Customer%20Segmentation-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Forecasting-1976D2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Excel%20Preprocessing-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-DB4437?style=for-the-badge&logo=microsoft&logoColor=white"/>
   
 </div>
 
