@@ -11,7 +11,7 @@
 
 This report is divided into two main analytical pages:
 
-- **Page 1 - Business Overview**:
+- **Page 1 - Sales Performance Report**:
   - Displays key metrics: Total Sales, Total Orders, Quantity Sold
   - Breaks down product-wise and team-wise performance
   - Interactive filters for deep-dive exploration
